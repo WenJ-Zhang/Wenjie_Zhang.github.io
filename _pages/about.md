@@ -39,7 +39,7 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 <!-- <small>\* Equal contribution / 共同第一作者</small> -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bKcPnFQAAAAJ) <strong><span class='show_paper_citations' data='bKcPnFQAAAAJ'></span></strong> -->
-- Proposes SMAP, the first multimodal framework for semantic route planning that integrates user queries, POI metadata, and map tiles to generate spatially coherent itineraries while significantly reducing geographical hallucinations through a novel self-editing and preference optimization pipeline. 
+- SMAP is the first multimodal framework for semantic route planning that reduces geographical hallucinations via a novel self-editing pipeline. 
 </div>
 </div>
 
