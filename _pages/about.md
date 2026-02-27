@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I graduated from the School of Mechanical and Electronic Information, China University of Geosciences with a bachelor’s degree, and I am currently a third-year Master’s student  from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. Bobo Xi.
+Hi there, I am Wenjie Zhang (Chinese name: 张文捷). I graduated from the School of Mechanical and Electronic Information, China University of Geosciences with a bachelor’s degree, and I am currently a third-year Master’s student  from the Hangzhou Institute for Technology, Xidian University, under the supervision of Prof. [Bobo Xi](https://b-xi.github.io).
 
 My master’s research primarily focused on Hyperspectral Image Open-Set Recognition (HSI-OSR). Currently, I am extending my work to Multimodal Large Language Models (MLLMs) and Reinforcement Learning. You can find my Google Scholar profile here: <a href='https://scholar.google.com/citations?user=bKcPnFQAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -41,9 +41,9 @@ My master’s research primarily focused on Hyperspectral Image Open-Set Recogni
 </div>
 </div>
 
-- [HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/11247869). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 7642-7655. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperCASR)
+- [HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/11247869). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 7642-7655. [CODE](/TIP_2025_HyperCASR/)
 
-- [HyperTaFOR: Task-adaptive few-shot open-set recognition with spatial-spectral selective transformer for hyperspectral imagery](https://ieeexplore.ieee.org/document/11071942). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 4148-4160. [CODE](https://github.com/WenJ-Zhang/TIP_2025_HyperTaFOR)
+- [HyperTaFOR: Task-adaptive few-shot open-set recognition with spatial-spectral selective transformer for hyperspectral imagery](https://ieeexplore.ieee.org/document/11071942). Xi, Bobo, **Zhang Wenjie**, Li Jiaojiao, Song Rui, Li Yunsong. IEEE Transactions on Image Processing (IEEE TIP), 2025, 34: 4148-4160. [CODE](/TIP_2025_HyperTaFOR/)
 
 
 # 🎖 Honors and Awards
